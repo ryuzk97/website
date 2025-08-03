@@ -1,0 +1,59 @@
+Anand Das
+Third-year EEE Student, NIT Calicut
+anand97das@gmail.com — +91 97463 09700
+Kozhikode, Kerala — LinkedIn
+
+Education
+Bharathiya Vidya Bhavan, Koyilandy
+High School,
+Score: 89%
+Vijayagiri Public School
+Higher Secondary, Stream-PCM
+Score: 95.4%
+National Institute of Technology Calicut (NITC)
+B.Tech. in Electrical and Electronics Engineering
+CGPA: 8.12
+
+2020
+
+2021 – 2023
+
+2023 – Present
+
+Technical Skills
+Languages:
+Tools:
+
+C, MATLAB
+KiCad, Proteus, ROS2, LTspice, Git
+
+Projects
+Frequency Counter
+Designed and built a frequency counter using D flip-flops, counters, and seven-segment displays.
+• Designed combinational and sequential logic circuits to count the input signal frequency.
+• Simulated the circuit using Proteus and implemented it on hardware.
+Modelling & Control of 3-Phase Induction Motor
+Developed a dynamic model of a 3-phase induction motor using MATLAB and Simulink.
+• Implemented SPWM and SVPWM control.
+PCB Design & Robot Fabrication – Riggu (Semi-Humanoid Robot)
+Designed the power distribution PCB and contributed to the fabrication of Riggu, a semihumanoid robot
+capable of autonomous navigation.
+• Created PCB schematics and layouts using KiCad focused on power management and distribution.
+• Built the robot’s outer body using resin and fiberglass, ensuring durability and proper component
+fitting.
+• Assisted in assembling and integrating electronics with mechanical parts.
+
+Extracurricular Activities
+Member, Robotics Club – NIT Calicut
+• Contributed to organizing ORIGO 2025, an introductory robotics workshop for beginners.
+• Participated in robotics expos to showcase student-led innovations and promote interest in robotics.
+• Participated in team activities focused on hands-on learning and technical demonstrations.
+
+Achievements
+Finalist – E-Toycathon 2025
+Ministry of Education (MeitY) & CDAC Noida – Electronic Toy Prototype Hackathon
+• Led a team in designing an innovative electronic toy prototype with custom PCB design.
+• Selected among top 20 finalists nationwide.
+• Contributed to circuit design, PCB layout, and product concept innovation.
+
+
